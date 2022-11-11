@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am **Benjamin Lim** from Singapore, An excited programmer with hardworking, committed team player, proactive and a self-starter; capable to of handling stressful conditions. Extremely sensitive with Front-end like React.js and Vue.js.
+I am **Senior Web and Mobile Developer**, An excited programmer with hardworking, committed team player, proactive and a self-starter; capable to of handling stressful conditions. Extremely sensitive with Front-end like React.js and Vue.js.
 
 I am really enthusiastic about learning new technology. In 2020, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with **Freelancing** quite recently.
 

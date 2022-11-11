@@ -68,7 +68,7 @@ I am really enthusiastic about learning new technology. In 2020, I learned **Nex
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/blim6089)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:blim6089@gmail.com)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://app.enhancv.com/share/f933e6de/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
-[![telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=red)](https://t.me/blim6089)
+[![telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=red)](https://t.me/blim1211)
 [![discord](https://img.shields.io/badge/Discord-4285F4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NqQwBAz8dv)
 <!-- [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c12e516ee1d35044)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose/)
